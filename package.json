@@ -1,0 +1,29 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "An application utilizing node APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karatemaltliquor/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karatemaltliquor/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/karatemaltliquor/liri-node-app#readme",
+  "dependencies": {
+    "bandsintown": "^1.0.1",
+    "dotenv": "^6.2.0",
+    "moment": "^2.23.0",
+    "node-spotify-api": "^1.0.7",
+    "omdb-client": "^2.0.0",
+    "axios": "^0.18.0",
+    "inquirer": "^6.2.1"
+  }
+}
