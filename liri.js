@@ -5,7 +5,7 @@ var moment = require('moment');
 moment().format();
 var Spotify = require('node-spotify-api');
 var axios = require("axios");
-var omdbApi = require('omdb-client');
+// var omdbApi = require('omdb-client');
 var bandsintown = require('bandsintown');
 var inquirer = require('inquirer');
 
@@ -15,7 +15,7 @@ inquirer.prompt([
         type: "list",
         name: "commando",
         message: "What type of search would you like me to perform?",
-        choices: ["concert-this", "spotify-this-song", "movie-this", "do-what-it-says"]
+        choices: ["movie-this", "concert-this", "spotify-this-song", "do-what-it-says"]
       },    
     {
         type: "input",
@@ -41,11 +41,30 @@ inquirer.prompt([
                
             //   console log of Spotify info             
               console.log("Artists : " + data.tracks.items[0].album.artists[0].name); 
-              console.log("Song Title : " + data.tracks.items[0].name);
+               console.log("Song Title : " + data.tracks.items[0].name);
               console.log("Link to Song on Spotify : " + data.tracks.items[0].album.artists[0].external_urls.spotify);
               console.log("Album Title : " + data.tracks.items[0].album.name); 
               });
         }
-            
 
-    });
+        else if (user.commando === "movie-this") {
+            var movieName = (user.searcher);
+            var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=8ed0831";
+            console.log(queryUrl);
+            axios.get(queryUrl).then(
+                function(response) {
+                console.log("Title : " + response.data.Title);
+                console.log("Release Year : " + response.data.Year);
+                console.log("IDMB Rating : " + response.data.Ratings[0].Value);
+                console.log("Rotten Tomatoes Rating : " + response.data.Ratings[1].Value);
+                console.log("Country : " + response.data.Country);
+                console.log("Language : " + response.data.Language);
+                console.log("Plot : " + response.data.Plot);
+                console.log("Actors : " + response.data.Actors);
+                }
+              );
+
+               
+              };
+        }
+    );
