@@ -10,6 +10,6 @@
 
 ## Spotify-This
 
-1. [![Watch how the Spotify selection works!]https://hippolms-storage.s3-accelerate.amazonaws.com/wiz/videos/thumbnails/v2/hA44_TLupYwE-6lDqwlbjTAk_l9hyoqJbKxevlXPzAw.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJXRM4YAH2A46K76A%2F20190123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190123T231727Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4ac48ba008f76b8fcbe3578b9ec224713b5c1091a08aab3300f9feebfc173385](https://kmlcompany.hippovideo.io/video/play/hA44_TLupYwE-6lDqwlbjTAk_l9hyoqJbKxevlXPzAw)
+1. [![Watch how the Spotify selection works!](https://hippolms-storage.s3-accelerate.amazonaws.com/wiz/videos/thumbnails/v2/hA44_TLupYwE-6lDqwlbjTAk_l9hyoqJbKxevlXPzAw.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJXRM4YAH2A46K76A%2F20190123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190123T231727Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4ac48ba008f76b8fcbe3578b9ec224713b5c1091a08aab3300f9feebfc173385)](https://kmlcompany.hippovideo.io/video/play/hA44_TLupYwE-6lDqwlbjTAk_l9hyoqJbKxevlXPzAw)
 
     
