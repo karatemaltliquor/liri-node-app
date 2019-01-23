@@ -10,6 +10,10 @@
 
 ## Spotify-This
 
-* [![Watch how the Spotify selection works!](https://hippolms-storage.s3-accelerate.amazonaws.com/wiz/videos/thumbnails/v2/hA44_TLupYwE-6lDqwlbjTAk_l9hyoqJbKxevlXPzAw.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJXRM4YAH2A46K76A%2F20190123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190123T231727Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4ac48ba008f76b8fcbe3578b9ec224713b5c1091a08aab3300f9feebfc173385)](https://kmlcompany.hippovideo.io/video/play/hA44_TLupYwE-6lDqwlbjTAk_l9hyoqJbKxevlXPzAw)
+### This video shows how the "spotify-this" selection works.
+ [![Watch how the Spotify selection works!](https://hippolms-storage.s3-accelerate.amazonaws.com/wiz/videos/thumbnails/v2/hA44_TLupYwE-6lDqwlbjTAk_l9hyoqJbKxevlXPzAw.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJXRM4YAH2A46K76A%2F20190123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190123T231727Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4ac48ba008f76b8fcbe3578b9ec224713b5c1091a08aab3300f9feebfc173385)](https://kmlcompany.hippovideo.io/video/play/hA44_TLupYwE-6lDqwlbjTAk_l9hyoqJbKxevlXPzAw)
+
+ ### This video shows how the "spotify-this" selection works if nothing is entered into the second prompt.
+  [![Watch how the Spotify selection works!](https://hippolms-storage.s3-accelerate.amazonaws.com/wiz/videos/thumbnails/v2/cI2gNphMbmoEmIX_vTNjiTtEhJDzQhWN_atsWVAKn_w.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJXRM4YAH2A46K76A%2F20190123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190123T233730Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=92de19dc21cdc32bfe720d82bcdd2916011fc983567a8a54f152172d11613bf0)](https://kmlcompany.hippovideo.io/video/play/cI2gNphMbmoEmIX_vTNjiTtEhJDzQhWN_atsWVAKn_w)
 
     
