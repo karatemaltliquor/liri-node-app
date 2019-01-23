@@ -10,6 +10,8 @@
 
 ## Spotify-This
 
-1. ![Alt Text](https://kmlcompany.hippovideo.io/video/play/-5AqZYcqHdrl2WWvEgkgR7DisnwlDsQkUYb1qYxGuag)  
+1. ![Alt Text](assets/images/spotify-this.mp4)  
+
+![Alt Text](assets/images/spotify-this.gif) 
 
     
