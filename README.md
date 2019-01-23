@@ -10,8 +10,6 @@
 
 ## Spotify-This
 
-1. ![Alt Text](assets/images/spotify-this.mp4)  
-
-![Alt Text](assets/images/spotify-this.gif) 
+1. [Watch how the Spotify selection works!](https://kmlcompany.hippovideo.io/video/play/hA44_TLupYwE-6lDqwlbjTAk_l9hyoqJbKxevlXPzAw)
 
     
